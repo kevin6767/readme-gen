@@ -1,25 +1,25 @@
-# Kevin
-  ## <https://kevin6767.github.io/Kevin>
+# readme-gen
+  # <https://kevin6767.github.io/readme-gen>
   #### Table of Contents
   
-  - [Description](https://github.com/kevin6767/Kevin#description)
+  - [Description](https://github.com/kevin6767/readme-gen#description)
   
-  - [Liscenses](https://github.com/kevin6767/Kevin#liscenses)
+  - [Liscenses](https://github.com/kevin6767/readme-gen#liscenses)
   
-  - [Usages](https://github.com/kevin6767/Kevin#usages)
+  - [Usages](https://github.com/kevin6767/readme-gen#usages)
   
-  - [Installation](https://github.com/kevin6767/Kevin#installation)
+  - [Installation](https://github.com/kevin6767/readme-gen#installation)
   
-  - [Questions](https://github.com/kevin6767/Kevin#questions)
+  - [Questions](https://github.com/kevin6767/readme-gen#questions)
 
   # Description
-  This project showcases my readme abilities
+  This project is to showcase my abilities using Node.js to create a readme generator for future project
   # Liscenses
   MIT
   # Usages
-  to create custom README's
+  I will use this project to create professional readme's for my future projects
   # Installation
-  you have to npm install this to use it
+  To install this project, you can clone the repository and run the 'node index' command to be given a prompt to create a new readme which will be placed in the dist/ folder
   # Questions
   If you have anymore questions and would like to reach me here is my github profile <https://github.com/kevin6767>
   <br>
