@@ -57,7 +57,22 @@ function init() {
       {
         type: 'input',
         name: 'installation',
-        message: 'Would you like to feature this project?',
+        message: 'Explain the installation process',
+      },
+      {
+        type: 'input',
+        name: 'test',
+        message: 'Explain the test process',
+      },
+      {
+        type: 'input',
+        name: 'github',
+        message: 'Enter your github name',
+      },
+      {
+        type: 'input',
+        name: 'email',
+        message: 'Enter your email',
       },
     ])
     
